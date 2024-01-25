@@ -42,7 +42,7 @@ My goal is to combine programming knowledge with my passion for biological scien
     Because the future will be a consequence of the present." 💭🧠 
     <br>
     It is the hunger to learn, the boldness to try new things and the passion to positively impact people's lives through 
-    <br>programming that drive me to overcome challenges and continue to innovate. In this constantly evolving universe, curiosity and the desire to do something different is what drives me today in search of an extraordinary future. 🌍🍃</p>
+    <br>programming that drive me to overcome challenges and continue to innovate. In this constantly evolving universe, curiosity and the desire to do something different is what drives me in search of an extraordinary future. 🌍🍃</p>
 
 ### 📊 My GitHub Stats
 
