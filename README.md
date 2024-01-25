@@ -6,7 +6,7 @@
 ### 💗👩🏽‍💻 FullStack Developer | Programming Instructor 
 
 - 💻My nickname is YaYa or Yas, I'm an aspiring FullStack programmer and instructor Front-End developer in constantly evolving.
-- 🎓Currently Recently graduated in Análise e Desenvolvimento de Sistemas from [Fac.COTEMIG](https://www.cotemig.com.br/) 
+- 🎓Recently graduated in Análise e Desenvolvimento de Sistemas from [Fac.COTEMIG](https://www.cotemig.com.br/) 
 
 I am diving head first into the world of technology. 
 My goal is to combine programming knowledge with my passion for biological science. 
