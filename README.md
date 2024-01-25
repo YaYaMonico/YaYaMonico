@@ -3,7 +3,7 @@
 
 <img alt="Lisa Simpson" src="src/gifs/how-are-you.gif" width="480" height="366"></img>
 
-### 💗👩🏽‍💻 FullStack Developer | Programming Instructor 
+### 💗👩🏽‍💻 Front-End Developer | Programming Instructor 
 
 - 💻My nickname is YaYa or Yas, I'm an aspiring FullStack programmer and instructor Front-End developer in constantly evolving.
 - 🎓Recently graduated in Análise e Desenvolvimento de Sistemas from [Fac.COTEMIG](https://www.cotemig.com.br/) 
