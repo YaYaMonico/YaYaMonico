@@ -13,7 +13,7 @@ My goal is to combine programming knowledge with my passion for biological scien
 
 ### 📚 What I'm up to
 - 🧐 Improving my web development skills at [Proz Educação](https://prozeducacao.com.br). 
-- 🔭 Working on digital social inclusion projects at IGBS, which involve teaching programming and robotics. 
+- 🔭 Working on digital social inclusion projects at IBGS, which involve teaching programming and robotics. 
 
 ### 🌱 Technologies I'm learning 
 - 💻 JavaScript, React, MYSQL and Node.js are some of the technologies I'm dedicating myself to at the moment. 
