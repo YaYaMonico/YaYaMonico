@@ -9,7 +9,7 @@
 - 🎓Currently Recently graduated from [Fac.COTEMIG](https://www.cotemig.com.br/) 
 
 I am diving head first into the world of technology. 
-My goal is to combine programming knowledge with my passion for science. 
+My goal is to combine programming knowledge with my passion for biological science. 
 
 ### 📚 What I'm up to
 - 🧐 Improving my web development skills at [Proz Educação](https://prozeducacao.com.br). 
