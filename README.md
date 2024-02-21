@@ -47,21 +47,13 @@ My goal is to combine programming knowledge with my passion for biological scien
 ### 📊 My GitHub Stats
 
 <img alt="Lisa Simpson Dance" src="src/gifs/Lisadancing.gif" width="480" height="360"></img>
-<details>
+
   <summary> 👩🏽‍🎓 Engagement Level </summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=YaYaMonico&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
-</details>
-<details>
-  <summary> 🔥 GitHub Streak </summary>
-  <p>
-    <img src="https://streak-stats.demolab.com?user=YaYaMonico&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
-  </p>
-</details>
-<details>
   <summary> 🗣️ Top Languages </summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaYaMonico&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
-</details>
+
