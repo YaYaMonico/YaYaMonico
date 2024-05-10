@@ -2,13 +2,13 @@
 
 <img alt="Lisa Simpson" src="src/gifs/how-are-you.gif" width="480" height="366"></img>
 
-### 💗👩🏽‍💻 Front-End Developer | Programming Instructor 
+### 💗👩🏽‍💻 Full Stack Web Developer | Programming Instructor 
 
-- 💻My nickname is YaYa or Yas, I'm an aspiring FullStack programmer and instructor Front-End developer in constantly evolving.
-- 🎓Recently graduated in Análise e Desenvolvimento de Sistemas from [Fac.COTEMIG](https://www.cotemig.com.br/) 
-
-I am diving head first into the world of technology. 
-My goal is to combine programming knowledge with my passion for biological science. 
+Hello! I'm very glad to be here! I hold a degree in Systems Analysis and Development from  [Fac.COTEMIG](https://www.cotemig.com.br/) , and I'm utterly passionate about the fusion between technology and nature. I constantly seek to enhance my knowledge in this area that fascinates me so much.
+I have experience and interest in various technology fields, especially in software development. I believe in the importance of combining my background with my passion for technology and nature to contribute significantly to the world. I'm always on the lookout for new challenges and opportunities to expand my skill set.
+Moreover, I'm constantly striving to improve my technical knowledge and share what I learn with others. I have a keen interest in cloud computing services, such as those offered by AWS, and I've been exploring ways to apply them in my projects.
+I've been sharing my experiences and learnings on platforms like LinkedIn, and I dream of using technology as a tool to disseminate knowledge and inspire others in the technology field.
+I also share an interest in discussing topics like diversity, equity, and inclusion in the world of technology. I firmly believe in the potential of women in programming and am always ready to contribute to making this environment more inclusive and diverse.
 
 ### 📚 What I'm up to
 - 🧐 Improving my web development skills at [Proz Educação](https://prozeducacao.com.br). 
@@ -46,11 +46,12 @@ My goal is to combine programming knowledge with my passion for biological scien
 ### 📊 My GitHub Stats
 
 <img alt="Lisa Simpson Dance" src="src/gifs/Lisadancing.gif" width="480" height="360"></img>
-  <summary> 🗣️ Top Languages </summary>
+
+  🗣️ Top Languages 
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaYaMonico&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
-  <summary> 👩🏽‍🎓 Engagement Level </summary>
+  👩🏽‍🎓 Engagement Level 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=YaYaMonico&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
