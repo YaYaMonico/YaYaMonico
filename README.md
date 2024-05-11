@@ -4,11 +4,7 @@
 
 ### 💗👩🏽‍💻 Full Stack Web Developer | Programming Instructor 
 
-Hello! I'm very glad to be here! I hold a degree in Systems Analysis and Development from  [Fac.COTEMIG](https://www.cotemig.com.br/) , and I'm utterly passionate about the fusion between technology and nature. I constantly seek to enhance my knowledge in this area that fascinates me so much.
-I have experience and interest in various technology fields, especially in software development. I believe in the importance of combining my background with my passion for technology and nature to contribute significantly to the world. I'm always on the lookout for new challenges and opportunities to expand my skill set.
-Moreover, I'm constantly striving to improve my technical knowledge and share what I learn with others. I have a keen interest in cloud computing services, such as those offered by AWS, and I've been exploring ways to apply them in my projects.
-I've been sharing my experiences and learnings on platforms like LinkedIn, and I dream of using technology as a tool to disseminate knowledge and inspire others in the technology field.
-I also share an interest in discussing topics like diversity, equity, and inclusion in the world of technology. I firmly believe in the potential of women in programming and am always ready to contribute to making this environment more inclusive and diverse.
+Graduated in Systems Analysis and Development from  [Fac.COTEMIG](https://www.cotemig.com.br/). I constantly try to improve my knowledge in this area that fascinates me so much. I have experience and interest in several areas of technology, mainly software development. I believe in the importance of combining my training with my passion for technology and nature to contribute significantly to the world. I am always looking for new challenges and opportunities to expand my skill set. Additionally, I am constantly striving to improve my technical knowledge and share what I learn with others. I have been sharing my experiences and learnings on platforms like LinkedIn, and I dream of using technology as a tool to disseminate knowledge and inspire other people in the technology field. I also share an interest in discussing topics such as diversity, equity and inclusion in the world of technology. I am always ready to contribute to making this environment more inclusive and diverse.
 
 ### 📚 What I'm up to
 - 🧐 Improving my web development skills at [Proz Educação](https://prozeducacao.com.br). 
@@ -16,7 +12,7 @@ I also share an interest in discussing topics like diversity, equity, and inclus
 
 ### 🌱 Technologies I'm learning 
 - 💻 JavaScript, React, MYSQL and Node.js are some of the technologies I'm dedicating myself to at the moment. 
-- 🤓 I'm also interested in learning Python, Next.js and Android!!! 
+- 🤓 I'm also interested in learning , Next.js and Android!!! 
 
 ### 💬 Let's talk! 
 - Find me on [LinkedIn](https://www.linkedin.com/in/yasmiin-m%C3%B4nico/). 
