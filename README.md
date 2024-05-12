@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE18F7&random=false&width=435&lines=Graduated+in+SADev.+-+Fac.COTEMIG%F0%9F%8E%93;I+live+in+Minas+Gerais%2C+%F0%9F%87%A7%F0%9F%87%B7%F0%9F%8C%8E;Full+Stack+Web+Developer%F0%9F%91%A9%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Currently+Teacher+off+Tec.%F0%9F%8D%8E;I+love+technology%F0%9F%92%9C;And+the+nature+and+animals%F0%9F%8C%B1%F0%9F%90%8B;My+nickname+is+YaYa+or+Yas%F0%9F%96%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE18F7&random=false&width=435&lines=Graduated+in+SADev.++Fac.COTEMIG%F0%9F%8E%93;Full+Stack+Web+Developer%F0%9F%91%A9%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Currently+Teacher+of+Tec.%F0%9F%8D%8E;I+love+technology%F0%9F%92%9C;And+the+nature+and+animals%F0%9F%8C%B1%F0%9F%90%8B;I+live+in+Minas+Gerais%2C+%F0%9F%87%A7%F0%9F%87%B7%F0%9F%8C%8E;My+nickname+is+YaYa+or+Yas%F0%9F%96%96)](https://git.io/typing-svg)
 
 <img alt="Lisa Simpson" src="src/gifs/how-are-you.gif" width="480" height="366"></img>
 
