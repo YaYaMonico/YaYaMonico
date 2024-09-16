@@ -52,4 +52,4 @@ Graduated in Systems Analysis and Development from  [Fac.COTEMIG](https://www.co
     <img src="https://github-readme-stats.vercel.app/api?username=YaYaMonico&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
 
-![snake gif](https://github.com/YaYaMonico/YaYaMonico/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YaYaMonico/YaYaMonico/blob/output/github-contribution-grid-snake.svg)
